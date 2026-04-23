@@ -4,7 +4,7 @@ Aspiring SOC Analyst | ISC2 CC Certified | Security Operations | Threat Detectio
 
 ## About Me
 
-I am building a cybersecurity portfolio focused on SOC workflows, alert triage, and incident investigation. My background includes hands-on analysis of malware, XSS attacks, suspicious PowerShell activity, and Windows OLE zero-click RCE exploitation.
+ Transitioning cybersecurity professional with hands-on experience/analysis in SOC alert triage, malware analysis, XSS attacks, and web security investigations.
 
 ## Certification
 
@@ -35,3 +35,5 @@ I am building a cybersecurity portfolio focused on SOC workflows, alert triage, 
 
 - Medium: [https://medium.com/@swootsbell](https://medium.com/@swootsbell)
 - LinkedIn: [https://www.linkedin.com/in/carlos-g-hxxps/](www.linkedin.com/in/carlos-g-hxxps)
+
+**Currently seeking SOC Analyst and Security Analyst roles. Available for interviews immediately.**
