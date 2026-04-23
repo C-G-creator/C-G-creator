@@ -1,28 +1,37 @@
-<h1>Hi, I'm Carlos! <br/><a <a href="https://medium.com/@swootsbell">Lets Defend Walkthroughs</a></h1>
+# Hi, I'm Carlos 👋
 
+Aspiring SOC Analyst | ISC2 CC Certified | Security Operations | Threat Detection
 
-<h2> Certifications:</h2>
+## About Me
 
-- <b>ISC2 CC </b>
-  
-  
-<h2>👨‍💻 SOC Analyst Projects:</h2>
+I am building a cybersecurity portfolio focused on SOC workflows, alert triage, and incident investigation. My background includes hands-on analysis of malware, XSS attacks, suspicious PowerShell activity, and Windows OLE zero-click RCE exploitation.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
- 
+## Certification
 
+- ISC2 Certified in Cybersecurity (CC)
 
+## Hands-On Security Work
 
+- LetsDefend malware alert investigation
+- LetsDefend XSS attack investigation
+- LetsDefend suspicious PowerShell script investigation
+- LetsDefend Windows OLE zero-click RCE exploitation investigation
 
+## Core Skills
 
-<h2> 🤳 Connect with me:</h2>
-[<img src="LINK_TO_IMAGE" alt="LinkedIn" width="30"/>](https://linkedin.com/in/carlos-g-hxxps)
+- SIEM alert triage
+- Malware and script analysis
+- Web attack identification
+- Windows endpoint investigation
+- IOC identification
+- Report writing and documentation
 
-[twitter]: https://twitter.com/joshmadakor
-[linkedin]: https://linkedin.com/in/carlos-g-hxxps
-[medium]:https://medium.com/@swootsbell
+## Portfolio
+
+- Technical writeups and case studies on Medium
+- Additional projects and labs on GitHub
+
+## Links
+
+- Medium: [https://medium.com/@swootsbell](https://medium.com/@swootsbell)
+- LinkedIn: [https://www.linkedin.com/in/carlos-g-hxxps/](www.linkedin.com/in/carlos-g-hxxps)
