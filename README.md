@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 👋
 
-Aspiring SOC Analyst | ISC2 CC Certified | Security Operations | Threat Detection
+SOC Analyst | ISC2 CC Certified | Security Operations | Threat Detection
 
 ## About Me
 
