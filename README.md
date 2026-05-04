@@ -15,7 +15,7 @@ SOC Analyst | ISC2 CC Certified | Security Operations | Threat Detection
 - LetsDefend malware alert investigation
 - [LetsDefend XSS Attack Case Study](https://github.com/C-G-creator/LetsDefend-SOC166-Javascript-Code-Detected-In-Requested-URL-.git)
 - [LetsDefend Suspicious PowerShell Script Investigation](https://github.com/C-G-creator/LetsDefend-SOC153-Suspicious-PowerShell-Script-Executed-A-Walkthrough.git)
-- LetsDefend Windows OLE zero-click RCE exploitation investigation
+- [LetsDefend Windows OLE Zero-Click RCE Exploitation Investigation](https://github.com/C-G-creator/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298.git)
 
 ## Core Skills
 
